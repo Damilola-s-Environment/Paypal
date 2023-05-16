@@ -5,3 +5,4 @@ NodeJS applications
 python application
 web application
 Server application
+AWS
