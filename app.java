@@ -6,3 +6,4 @@ python application
 web application
 Server application
 AWS
+bug removed
