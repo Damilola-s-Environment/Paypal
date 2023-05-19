@@ -8,3 +8,4 @@ Server application
 AWS
 great
 This app is excellent
+this app is excellent for all users
